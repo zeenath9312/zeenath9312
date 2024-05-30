@@ -16,10 +16,10 @@
 <p align="left">
 <a href="https://twitter.com/zeenathamansha2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zeenathamansha2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zeenathamanshaik(https://www.linkedin.com/in/zeenathamanshaik9312/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeenathamanshaik(https://www.linkedin.com/in/zeenathamanshaik9312/)" height="30" width="40" /></a>
-<a href="https://fb.com/zeen zeenath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zeen zeenath" height="30" width="40" /></a>
+<!--<a href="https://fb.com/zeen zeenath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zeen zeenath" height="30" width="40" /></a> -->
 <a href="https://instagram.com/zeen__zeenath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeen__zeenath" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/zeenathamanshai1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zeenathamanshai1" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/zeenathamanshaik9312(https://auth.geeksforgeeks.org/user/zeenathamanshaik9312)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="zeenathamanshaik9312(https://auth.geeksforgeeks.org/user/zeenathamanshaik9312)" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/zeenathamanshaik9312/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="zeenathamanshaik9312(https://auth.geeksforgeeks.org/user/zeenathamanshaik9312)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
